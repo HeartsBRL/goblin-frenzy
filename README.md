@@ -1,2 +1,3 @@
 # goblin-frenzy
-Will be updated by the 25th may. Robotics Goblin Frenzy page coming soon! Event will be around 21st June to 1st July
+Robotics Goblin Frenzy page coming soon! Event date yet to be decided, but will likely be around 21st June to 1st July 2022.
+We will update this infomation by the 25th may. 
