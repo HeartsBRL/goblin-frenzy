@@ -7,6 +7,9 @@ The Hackspace sessions with the HEARTS team will continue every Friday from 2pm 
 
 20th and the 28th will be attended by staff from 12:00. Staff will aim to attend the days in-between frequently. We will aim to get up a full calandar of when staff can attend and help soon.
 
-To sign up to the Goblin Frenzy please use the sign up sheet in the Hackspace - this sheet will be added Friday the 27th, please make a signup sheet for us if you are there before that date.
+To sign up to the Goblin Frenzy please:
+Here is the sign up form Senal made for us, please sign up so we can plan better:
+Students, PhD candidates and researchers very welcome! 
+https://docs.google.com/forms/d/1GH9CdfCYXB4oMt5FIR1pJcNed95tNWAIA5UkS9H-kWE
  
 ![Robotics_goblin_frenzy_pic](https://user-images.githubusercontent.com/812771/170381603-f203c570-ae2f-4476-859d-bb94b561ab44.jpg)
