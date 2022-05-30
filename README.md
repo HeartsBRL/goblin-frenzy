@@ -11,5 +11,8 @@ To sign up to the Goblin Frenzy please:
 Here is the sign up form Senal made for us, please sign up so we can plan better:
 Students, PhD candidates and researchers very welcome! 
 https://docs.google.com/forms/d/1GH9CdfCYXB4oMt5FIR1pJcNed95tNWAIA5UkS9H-kWE
+
+Discord:
+https://discord.gg/kWm5Hhst2s
  
 ![Robotics_goblin_frenzy_pic](https://user-images.githubusercontent.com/812771/170381603-f203c570-ae2f-4476-859d-bb94b561ab44.jpg)
