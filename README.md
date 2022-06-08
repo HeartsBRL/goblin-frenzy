@@ -5,7 +5,7 @@ Event will run from 20th to 28th June in the T-block Hackspace/Project room - 0T
 
 The Hackspace sessions with the HEARTS team will continue every Friday from 2pm until 5pm. Please turn up to this to ask questions and get early access to parts of the kits as they arrive.
 
-20th and the 28th will be attended by staff from 12:00. Staff will aim to attend the days in-between frequently. We will aim to get up a full calandar of when staff can attend and help soon.
+20th and the 28th will be attended by staff from 12:00. Staff will aim to attend the days in-between frequently. We will aim to get up a full calendar of when staff can attend and help soon.
 
 To sign up to the Goblin Frenzy please:
 Here is the sign up form Senal made for us, please sign up so we can plan better:
