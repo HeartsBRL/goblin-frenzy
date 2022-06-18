@@ -13,7 +13,7 @@ Students, PhD candidates and researchers very welcome!
 https://docs.google.com/forms/d/1GH9CdfCYXB4oMt5FIR1pJcNed95tNWAIA5UkS9H-kWE
 
 Discord:
-https://discord.gg/kWm5Hhst2s
+https://discord.gg/5w69MjvM
 
 Our component list:
 https://docs.google.com/spreadsheets/d/1JvYOJqdJ8lu3hb5OvKsQ5B9TrvnostRNEa7sS_ZJ0EM/edit?usp=sharing
