@@ -1,7 +1,11 @@
 # goblin-frenzy
-Robotics Goblin Frenzy page updates coming soon! 
+Robotics Goblin Frenzy!
 
 Event will run from 20th to 28th June in the T-block Hackspace/Project room - 0T133
+
+Final day is 28th June is the Assistive Robotics arena!
+
+This github is expected to be updated from our working notes by 8th July.
 
 The Hackspace sessions with the HEARTS team will continue every Friday from 2pm until 5pm. Please turn up to this to ask questions and get early access to parts of the kits as they arrive.
 
