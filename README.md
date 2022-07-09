@@ -10,11 +10,11 @@ Robotics Goblin Frenzy!
 
 Event will run from 20th to 28th June in the T-block Hackspace/Project room - 0T133
 
-Final day is 28th June is the Assistive Robotics arena!
+Final day was 28th June at the Assistive Robotics arena presenting to researchers at Notthingham University!
 
 This github was expected to be updated from our working notes by 8th July, **now it is estimated to be the 19th**.
 
-The Hackspace sessions with the HEARTS team will continue every Friday from 2pm until 5pm. Please turn up to this to ask questions and get early access to parts of the kits as they arrive.
+The Hackspace sessions with the HEARTS team was every Friday from 2pm until 5pm. Please turn up to this to ask questions and get early access to parts of the kits as they arrive.
 
 20th and the 28th will be attended by staff from 12:00. Staff will aim to attend the days in-between frequently. We will aim to get up a full calendar of when staff can attend and help soon.
 
