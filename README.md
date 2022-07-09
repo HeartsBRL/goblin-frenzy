@@ -12,7 +12,7 @@ Event will run from 20th to 28th June in the T-block Hackspace/Project room - 0T
 
 Final day is 28th June is the Assistive Robotics arena!
 
-This github is expected to be updated from our working notes by 8th July.
+This github was expected to be updated from our working notes by 8th July, *now it is estimated to be the 19th*.
 
 The Hackspace sessions with the HEARTS team will continue every Friday from 2pm until 5pm. Please turn up to this to ask questions and get early access to parts of the kits as they arrive.
 
