@@ -8,20 +8,11 @@
 # goblin-frenzy
 Robotics Goblin Frenzy!
 
-Event will run from 20th to 28th June in the T-block Hackspace/Project room - 0T133
+Event ran from 20th to 28th June in the T-block Hackspace/Project room - 0T133
 
-Final day was 28th June at the Assistive Robotics arena presenting to researchers at Notthingham University!
+Final day was 28th June at the Assistive Robotics arena we presented to researchers at Notthingham University!
 
-This github was expected to be updated from our working notes by 8th July, **now it is estimated to be the 19th**.
-
-The Hackspace sessions with the HEARTS team was every Friday from 2pm until 5pm. Please turn up to this to ask questions and get early access to parts of the kits as they arrive.
-
-20th and the 28th will be attended by staff from 12:00. Staff will aim to attend the days in-between frequently. We will aim to get up a full calendar of when staff can attend and help soon.
-
-To sign up to the Goblin Frenzy please:
-Here is the sign up form Senal made for us, please sign up so we can plan better:
-Students, PhD candidates and researchers very welcome! 
-https://docs.google.com/forms/d/1GH9CdfCYXB4oMt5FIR1pJcNed95tNWAIA5UkS9H-kWE
+This github will be updated with code and CAD from our working notes ** Delayed due to urgent matters - might be updated August now **.
 
 Discord:
 https://discord.gg/5w69MjvM
